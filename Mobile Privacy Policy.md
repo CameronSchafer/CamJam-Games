@@ -1,11 +1,12 @@
 ## APPLICATION PRIVACY POLICY
 
-Effective Date: 28 March 2023
+**Effective Date: 28 March 2023**
 
 CamJam Games Pty Ltd ("we," "us," "our") has created this Privacy Policy to demonstrate our commitment to privacy. This Privacy Policy applies to our mobile game, Nugget Clicker, available on the Google Play store (the "App").
-Analytics
 
-We use Google Analytics, a web analytics service provided by Google LLC ("Google"), to collect information about how users interact with the App. Google Analytics uses cookies to collect information such as your device's IP address, the type of device you are using, the version of the operating system installed on your device, and other usage statistics. We use the information provided by Google Analytics to improve the App and to understand how users interact with the App. For more information about Google Analytics and how it collects and processes data, please visit: https://policies.google.com/technologies/partner-sites
+### Analytics
+
+We may use Google Analytics, a web analytics service provided by Google LLC ("Google"), to collect information about how users interact with the App. Google Analytics uses cookies to collect information such as your device's IP address, the type of device you are using, the version of the operating system installed on your device, and other usage statistics. We use the information provided by Google Analytics to improve the App and to understand how users interact with the App. For more information about Google Analytics and how it collects and processes data, please visit: https://policies.google.com/technologies/partner-sites
 
 ### Ads
 
@@ -23,19 +24,19 @@ The App may offer in-app purchases or premium content that can be purchased for 
 
 Any in-app purchases or premium content are subject to the terms and conditions of the applicable payment processor, which may include additional terms regarding billing, refunds, and cancellation. We are not responsible for any charges, fees, or other liabilities that may arise from your use of in-app purchases or premium content.
 
-Please note that in-app purchases and premium content are non-transferable and non-refundable, except as required by applicable law. If you have any questions or concerns regarding in-app purchases or premium content, please contact us at [INSERT CONTACT INFORMATION].
+Please note that in-app purchases and premium content are non-transferable and non-refundable, except as required by applicable law. If you have any questions or concerns regarding in-app purchases or premium content, please contact us at camschaf1+info@gmail.com
 
 ### Your Rights
 
-You may have certain rights with respect to your personal information, including the right to access, correct, and delete your personal information. If you wish to exercise any of these rights, please contact us at [INSERT CONTACT INFORMATION].
+You may have certain rights with respect to your personal information, including the right to access, correct, and delete your personal information. If you wish to exercise any of these rights, please contact us at camschaf1+info@gmail.com
 
 Please note that if you wish to delete your personal information, you can simply delete the App from your device, as we do not collect any personal information directly. However, please note that certain third-party services, such as Ironsource (Unity LevelPlay), may collect personal information in connection with their services. You should consult their respective privacy policies for more information on what personal information they collect and how they use it.
 
-If you are a resident of California, you have certain rights under the CCPA and CPRA, including the right to request that we disclose what personal information we have collected about you, the right to request that we delete your personal information, and the right to opt-out of the sale of your personal information. If you wish to exercise any of these rights, please contact us at [INSERT CONTACT INFORMATION]. Please note that we may require additional information from you in order to verify your identity before fulfilling your request.
+If you are a resident of California, you have certain rights under the CCPA and CPRA, including the right to request that we disclose what personal information we have collected about you, the right to request that we delete your personal information, and the right to opt-out of the sale of your personal information. If you wish to exercise any of these rights, please contact us at camschaf1+info@gmail.com. Please note that we may require additional information from you in order to verify your identity before fulfilling your request.
 
-If you are a resident of the European Economic Area (EEA) or Switzerland, you have certain rights under the GDPR, including the right to access, correct, and delete your personal information. If you wish to exercise any of these rights, please contact us at [INSERT CONTACT INFORMATION]. Please note that we may require additional information from you in order to verify your identity before fulfilling your request.
+If you are a resident of the European Economic Area (EEA) or Switzerland, you have certain rights under the GDPR, including the right to access, correct, and delete your personal information. If you wish to exercise any of these rights, please contact us at camschaf1+info@gmail.com. Please note that we may require additional information from you in order to verify your identity before fulfilling your request.
 
-If you are a resident of California, you also have certain rights under CalOPPA, including the right to know what personal information we collect about you and the right to request that we delete that information. If you wish to exercise any of these rights, please contact us at [INSERT CONTACT INFORMATION].
+If you are a resident of California, you also have certain rights under CalOPPA, including the right to know what personal information we collect about you and the right to request that we delete that information. If you wish to exercise any of these rights, please contact us at camschaf1+info@gmail.com.
 
 Please note that while we do not collect any personal information directly, we use Ironsource to display ads in our App. Ironsource may collect certain personal information, such as IP address and device identifiers, to display personalized ads to you. For more information on what personal information Ironsource collects and how it uses it, please consult Ironsource's privacy policy at https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/
 
@@ -45,7 +46,7 @@ Some web browsers may transmit "do not track" signals to websites and other onli
 
 ### Children's Privacy
 
-The App is not directed at children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us at [INSERT CONTACT INFORMATION].
+The App is not directed at children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us at camschaf1+info@gmail.com.
 
 ### Changes to this Privacy Policy
 
@@ -53,4 +54,4 @@ We reserve the right to modify this Privacy Policy at any time. If we make mater
 
 ### Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [INSERT CONTACT INFORMATION].
+If you have any questions or concerns about this Privacy Policy, please contact us at camschaf1+info@gmail.com.
